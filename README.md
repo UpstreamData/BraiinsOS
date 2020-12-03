@@ -2,7 +2,7 @@
 This contains everything you will need to use/install/configure S9 miners with Braiins OS+
 
 
-___THESE WORK ON WINDOWS ONLY
+# ---THESE WORK ON WINDOWS ONLY---
 
 
 Ignore all folders labeled "Files" these are just used to hold the toolbox.
