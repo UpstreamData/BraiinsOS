@@ -1,0 +1,6 @@
+-- CHANGING AUTOTUNING ON MINERS --
+1. Run an IP Scan/Input all miner IP's into IPList.txt
+2. The configuration should have been preset for you, however if it has changed, edit config.toml and insert pool information.
+3. Run Config.bat
+4. Wait for the program to complete
+5. Done.

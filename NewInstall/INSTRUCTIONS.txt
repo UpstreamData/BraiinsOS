@@ -1,0 +1,6 @@
+-- CHANGING AUTOTUNING ON MINERS --
+1. Run an IP Scan/Input all miner IP's into IPList.txt
+2. Run ChangeTuning.bat
+3. Input the wattage you would like the miners tuned to into the prompt (Below 1600)
+4. Wait for the program to complete
+5. Done.
