@@ -4,8 +4,8 @@ This contains everything you will need to use/install/configure S9 miners with B
 
 # ---THESE WORK ON WINDOWS ONLY---
 
-
-Ignore all folders labeled "Files" these are just used to hold the toolbox.
+Go to https://braiins.com/os/plus/download and download the Braiins Toolbox for Windows.
+Put the downloaded file into all folders named "Files", one in the main, and one in the New Install folder.
 
 --IPScanLocal.bat and IPScanVPN.bat--
 
