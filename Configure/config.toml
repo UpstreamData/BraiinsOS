@@ -15,19 +15,19 @@ quota = 1
 
 [[group.pool]]
 url = 'stratum+tcp://192.168.1.200:3333'
-user = 'LPRBTCPA.Unit49'
+user = 'UpstreamDataInc.test'
 password = '123'
 
 [[group.pool]]
 url = 'stratum+tcp://us-east.stratum.slushpool.com:3333'
-user = 'LPRBTCPA.Unit49'
+user = 'UpstreamDataInc.test'
 password = '123'
 
 [[group.pool]]
 url = 'stratum+tcp://stratum.slushpool.com:3333'
-user = 'LPRBTCPA.Unit49'
+user = 'UpstreamDataInc.test'
 password = '123'
 
 [autotuning]
 enabled = true
-psu_power_limit = 800
+psu_power_limit = 900
