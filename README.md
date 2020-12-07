@@ -34,6 +34,8 @@ Enter wattage when prompted by the file.
 
 # New Install
 
+Ensure bosplustoolbox.exe is inside the Files Folder
+
 Put all IPs in IPList.txt.
 
 Run BraiinsInstall.bat
