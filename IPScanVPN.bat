@@ -2,6 +2,7 @@
 setlocal enabledelayedexpansion
 del IPScanResults1.txt
 del IPList.txt
+rem Here is where you can change the IP adresses to scan for.
 	FOR /L %%z IN (5,1,255) DO @(
 	ssh -o "StrictHostKeyChecking no"  -o "ConnectTimeout=1" root@192.168.1.%%z "ip addr && exit" | FIND /i "inet 192.">>IPScanResults1.txt
 	)
