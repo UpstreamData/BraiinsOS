@@ -3,7 +3,7 @@ This contains everything you will need to use/install/configure S9 miners with B
 
 
 # THESE WORK ON WINDOWS ONLY
-# IMPORTANT
+# IMPORTANT FOR INSTALL
 Go to https://braiins.com/os/plus/download and download the latest S9 Braiins Toolbox for Windows.
 Put the downloaded file into all folders named "Files", one in the main, and one in the New Install folder.
 
