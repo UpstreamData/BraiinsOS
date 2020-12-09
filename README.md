@@ -17,7 +17,7 @@ These files are configured to scan on a network with IP addresses ranging from 1
 
 If your network is not configured like this, edit these files, search for a line in IPScanVPN containing "192.168.1." and replace that with the first 3 parts of your local network IPs, such as "10.10.10.", the last numbers after the dot are filled automatically.  For IPScanLocal search for a line containing "192.168.1.0" and replace that with your local network IPs, with the last number being 0, such as "10.10.10.0".
 
-These will output a text file called IPList.txt, whcih can then be used for all other parts of the process.
+These will output a text file called IPList.txt, which can then be used for all other parts of the process.
 
 # Config
 
